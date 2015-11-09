@@ -1,0 +1,3 @@
+Run script2run.m
+
+Enjoy :)
